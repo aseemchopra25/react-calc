@@ -1,5 +1,5 @@
 # Beautiful Calculator 
->Calculator created using React.js, Custom CSS and React Hooks.
+>Calculator created using React.js, Custom CSS and React Hooks
 ![Alt Text](https://raw.githubusercontent.com/aseemchopra25/external-files/main/react-calc.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
