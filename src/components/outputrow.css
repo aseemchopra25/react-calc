@@ -4,6 +4,7 @@
 }
 
 .screen{
+    line-height: 1.2;
     font-family: 'digital-7', sans-serif;
     display: block;
     margin-left: auto;
